@@ -1,4 +1,5 @@
 export const Model: Record<string, string> = {
+  'Gemini 2.0 Flash Thinking Experimental': 'gemini-2.0-flash-thinking-exp-1219',
   'Gemini Experimental 1206': 'gemini-exp-1206',
   'Gemini 1.5 Pro': 'gemini-1.5-pro',
   'Gemini 1.5 Pro Latest': 'gemini-1.5-pro-latest',
